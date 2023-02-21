@@ -39,5 +39,12 @@ namespace HackerRank {
 		public:
 			std::vector<int> Run() override;
 		};
+
+		class LonelyInteger : HackerrankSolution<void> {
+		private:
+			std::vector<int> GetInput();
+		public:
+			void Run() override;
+		};
 	}
 }

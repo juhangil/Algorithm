@@ -145,12 +145,13 @@
     <ClInclude Include="utility.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="lonelyinteger.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="minmaxsum.cpp" />
     <ClCompile Include="plusminus.cpp" />
     <ClCompile Include="timeconversion.cpp" />
     <ClCompile Include="utility.cpp" />
-    <ClCompile Include="SparseArrays.cpp" />
+    <ClCompile Include="sparsearray.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

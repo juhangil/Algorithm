@@ -50,7 +50,10 @@
     <ClCompile Include="utility.cpp">
       <Filter>소스 파일\Utility</Filter>
     </ClCompile>
-    <ClCompile Include="SparseArrays.cpp">
+    <ClCompile Include="sparsearray.cpp">
+      <Filter>소스 파일\HackerRank\InterviewPreparationKit</Filter>
+    </ClCompile>
+    <ClCompile Include="lonelyinteger.cpp">
       <Filter>소스 파일\HackerRank\InterviewPreparationKit</Filter>
     </ClCompile>
   </ItemGroup>
